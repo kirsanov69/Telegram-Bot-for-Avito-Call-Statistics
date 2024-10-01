@@ -28,7 +28,7 @@ Clone the repository:
 
 bash
 
-git clone https://github.com/your-repo/avito-bot.git
+git clone https://github.com/kirsanov69/Telegram-Bot-for-Avito-Call-Statistics.git
 cd avito-bot
 Install dependencies:
 
