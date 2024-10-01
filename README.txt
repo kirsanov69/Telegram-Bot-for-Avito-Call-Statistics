@@ -29,7 +29,7 @@ Clone the repository:
 bash
 
 git clone https://github.com/kirsanov69/Telegram-Bot-for-Avito-Call-Statistics.git
-cd avito-bot
+cd Telegram-Bot-for-Avito-Call-Statistics      
 Install dependencies:
 
 bash
